@@ -23,6 +23,4 @@ Databricks Feature Store
 
 MLflow
 
-Purpose
-
-## Hands-on practice of Databricks ML engineering workflows for certification preparation.
+Purpose : Hands-on practice of Databricks ML engineering workflows for certification preparation.
